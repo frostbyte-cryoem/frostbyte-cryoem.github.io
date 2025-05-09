@@ -1,0 +1,52 @@
+site_name: FrostByte
+site_author: Alister Burt
+site_description: >-
+  A meeting for computational cryo-EM enthusiasts in the San Francisco Bay Area
+docs_dir: src
+# uncomment this to add past events section to site
+# nav:
+#   - Past Events:
+#       - 2025: 2025.md
+
+theme:
+  logo: assets/icon.png
+  favicon: assets/icon.png
+  # for more complex custom theming...
+  # custom_dir: docs/overrides
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: cyan
+      accent: purple
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.sections
+    - content.tabs.link
+
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - toc:
+      toc_depth: 3
+
+plugins: []
+
+extra_css:
+  - stylesheets/nofooter.css
