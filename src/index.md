@@ -13,7 +13,7 @@ Join us for the first edition of *FrostByte*, a meeting for computational cryo-E
 <br>
 <b>Wednesday 11th June 2025</b>
 <br>
-<b>Redwood City</b>
+<b>Sports Basement - Redwood City</b>
 </div>
 
 This is an event for the Bay Area cryo-EM methods community to connect, share practical insights, and discuss day-to-day challenges. While we welcome attendees from all backgrounds and roles, the focus will be on technical discussions among those directly engaged with computational methods in their daily work.
@@ -21,19 +21,40 @@ This is an event for the Bay Area cryo-EM methods community to connect, share pr
 ## Schedule
 
 - **11:30 - 12:30**: mingling + 🍕
-- **12:30 - 14:00**: flash talks ⚡
-- **14:00 - 14:30**: break 💬
-- **14:30 - 16:30**: demo session
+- **12:30 - 14:15**: flash talks ⚡
+- **14:15 - 14:45**: break 💬
+- **14:45 - 16:30**: demo session
 - **16:30 - 16:55**: more mingling
 - **16:55 - 17:05**: closing remarks 👋
 
-
 ## Registration
 
-Please register using this [🔗Google form](https://forms.gle/ZBQPtYMRky1DNgEd9) by end of day **Friday May 23rd 2025**.
+Registration is now closed.
 
-If you are chosen for a flash talk or demo you will be informed on **Wednesday May 28th 2025**.
+## Program
 
+### Flash Talks
+
+- Adam Marko
+- Utz Ermel
+- Arthur Zalevsky
+- Laurel Kinman
+- Dari Kimanius
+- Kithmini Herath
+- Alister Burt
+- Yilai Li
+- Jonathan Schwartz
+- Daoyi Li
+
+### Demos
+
+- Shawn Zheng
+- Matthew Giammar
+- Dimitry Tegunov
+- Arthur Zalevsky
+- Alister Burt
+- Dari Kimanius
+- Utz Ermel
 
 
 ## Organizers
