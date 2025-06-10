@@ -39,12 +39,12 @@ Registration is now closed.
 - Utz Ermel
 - Arthur Zalevsky
 - Laurel Kinman
-- Dari Kimanius
 - Kithmini Herath
 - Alister Burt
 - Yilai Li
 - Jonathan Schwartz
 - Daoyi Li
+- Dari Kimanius
 
 ### Demos
 
